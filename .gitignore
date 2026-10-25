@@ -6,4 +6,5 @@
 !LICENSE.txt
 !updates.json
 !release-assets/
-!release-assets/*.xpi
+release-assets/*
+!release-assets/ice-cream-0.6.4.xpi
