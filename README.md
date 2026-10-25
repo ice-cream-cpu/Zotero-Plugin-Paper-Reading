@@ -4,11 +4,11 @@ ice-cream 是一个 Zotero 9 及以上版本的全文、多论文 AI 阅读插�
 
 ## 下载
 
-- [下载最新版 ice-cream](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/releases/latest)
-- [直接下载 ice-cream 0.6.4 XPI](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/releases/download/v0.6.4/ice-cream-0.6.4.xpi)
-- [查看全部历史版本](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/releases)
+- [下载最新版 ice-cream 0.6.4 XPI](https://raw.githubusercontent.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/main/release-assets/ice-cream-0.6.4.xpi)
+- [查看公开仓库](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading)
+- [查看历史 Releases](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/releases)
 
-安装包仅通过 GitHub Releases 发布。公开 Git 仓库只保存使用说明、更新日志和自动更新清单，不保存插件源码。
+公开 Git 仓库只保存使用说明、更新日志、自动更新清单和可安装的 XPI，不保存插件源码。
 
 ## 已实现
 
