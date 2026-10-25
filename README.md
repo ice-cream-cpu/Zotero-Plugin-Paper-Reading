@@ -1,12 +1,12 @@
-# ice-cream v0.6.3 使用说明
+# ice-cream v0.6.4 使用说明
 
-ice-cream 是一个 Zotero 9 全文、多论文 AI 阅读插件。除实际调用模型 API 外，文献解析、分块和本地检索均在 Zotero 内完成。
+ice-cream 是一个 Zotero 9 及以上版本的全文、多论文 AI 阅读插件。除实际调用模型 API 外，文献解析、分块和本地检索均在 Zotero 内完成。插件使用面向未来版本的宽兼容范围，避免 Zotero 主版本升级时仅因版本号范围而被自动禁用；若未来 Zotero API 发生破坏性变化，仍可能需要代码适配。
 
 ## 下载
 
-- [下载最新版 ice-cream](https://github.com/ice-cream-cpu/ice-cream/releases/latest)
-- [直接下载 ice-cream 0.6.3 XPI](https://github.com/ice-cream-cpu/ice-cream/releases/download/v0.6.3/ice-cream-0.6.3-zotero9.xpi)
-- [查看全部历史版本](https://github.com/ice-cream-cpu/ice-cream/releases)
+- [下载最新版 ice-cream](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/releases/latest)
+- [直接下载 ice-cream 0.6.4 XPI](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/releases/download/v0.6.4/ice-cream-0.6.4.xpi)
+- [查看全部历史版本](https://github.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/releases)
 
 安装包仅通过 GitHub Releases 发布。公开 Git 仓库只保存使用说明、更新日志和自动更新清单，不保存插件源码。
 
@@ -51,11 +51,11 @@ ice-cream 是一个 Zotero 9 全文、多论文 AI 阅读插件。除实际调�
 
 ## 安装
 
-1. 确认使用 Zotero 9。
+1. 确认使用 Zotero 9 或更高版本。
 2. 打开 Zotero。
 3. 进入 `Tools -> Plugins`。
 4. 点击齿轮按钮，选择 `Install Plugin From File`。
-5. 选择 `ice-cream-0.6.3-zotero9.xpi`。
+5. 选择 `ice-cream-0.6.4.xpi`。
 6. 如 Zotero 提示，重启 Zotero。
 
 ## 配置
