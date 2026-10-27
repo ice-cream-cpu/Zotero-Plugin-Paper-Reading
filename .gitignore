@@ -9,3 +9,4 @@
 !release-assets/
 release-assets/*
 !release-assets/ice-cream-0.6.4.xpi
+!release-assets/ice-cream-0.6.15.xpi

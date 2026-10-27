@@ -3,9 +3,9 @@
     "ai-read@lingzy.local": {
       "updates": [
         {
-          "version": "0.6.4",
-          "update_link": "https://raw.githubusercontent.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/main/release-assets/ice-cream-0.6.4.xpi",
-          "update_hash": "sha256:048b3ecd3b908967301d2200be479c5207ec483d21c3f2cf027bd380d17d790e",
+          "version": "0.6.15",
+          "update_link": "https://raw.githubusercontent.com/ice-cream-cpu/Zotero-Plugin-Paper-Reading/main/release-assets/ice-cream-0.6.15.xpi",
+          "update_hash": "sha256:6e42c4bdc29d01659200c25bc894095072a99b4efbb5c84bf59176b87fac2306",
           "applications": {
             "zotero": {
               "strict_min_version": "9.0",
